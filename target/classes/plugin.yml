@@ -1,0 +1,12 @@
+author: Borgdude
+description: "SimpleLives"
+main: com.borgdude.lives.SimpleLives
+name: SimpleLives
+version: "0.0.1"
+api-version: 1.13
+softdepend: [Vault]
+
+commands:
+  lives:
+    description: SimpleLives command
+    usage: /<command> <options> | /<command> help
